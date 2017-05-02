@@ -1,4 +1,4 @@
-# rusty_camel
+# Rusty Camel
 Ruby snake to camel in rust
 
 ### Example
