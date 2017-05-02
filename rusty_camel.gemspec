@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |s|
   s.name         = 'rusty_camel'
-  s.version      = '1.0.3'
+  s.version      = '1.0.4'
   s.authors      = ['Squiidz']
   s.summary      = "Snake to Camel case"
   s.files        = Dir['{lib/**/*,[A-Z]*}']

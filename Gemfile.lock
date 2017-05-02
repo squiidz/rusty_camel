@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    rusty_camel (1.0.2)
+    rusty_camel (1.0.3)
       helix_runtime (~> 0.5.0)
 
 GEM
