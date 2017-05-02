@@ -6,6 +6,7 @@ Gem::Specification.new do |s|
   s.authors      = ['Squiidz']
   s.summary      = "Snake to Camel case"
   s.files        = Dir['{lib/**/*,[A-Z]*}']
+  s.homepage     = "https://github.com/squiidz/rusty_camel"
 
   s.platform     = Gem::Platform::RUBY
   s.require_path = 'lib'

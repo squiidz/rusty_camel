@@ -2,3 +2,6 @@ target
 tmp
 *.bundle
 *.so
+*.gem
+tags
+tags.temp
